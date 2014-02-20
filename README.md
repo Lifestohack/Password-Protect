@@ -20,3 +20,5 @@ Also this app doesnot require any permission to run. If you are a android develo
 
 Read License for more information.
 
+Download the .apk file <a href="http://www.lifestohack.com/divon/public.php?service=files&t=322b2de4a16f56ba1c9084f12b32460b">here</a>.
+
