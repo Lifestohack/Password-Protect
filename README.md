@@ -22,3 +22,5 @@ Read License for more information.
 
 Download the .apk file <a href="http://www.lifestohack.com/divon/public.php?service=files&t=322b2de4a16f56ba1c9084f12b32460b">here</a>.
 
+How can you help?
+I need help to make it look nice, with nice layout and nice look. If anybody could help that would be great. You can send me the link if you have worked on the code at diwas.bhattarai@lifestohack.com
