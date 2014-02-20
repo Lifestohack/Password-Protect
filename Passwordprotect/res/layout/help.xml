@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Default password is nothing, just click on OK. \n This app helps you to Remember your user name and password from different website.\n\n
+        Save Credentials: Just Give the name of the website that you want to save Password from, Give the username and Password and click on Save.\n\n
+        Load Credentials: You can see your saved password in this page. Just choose the website that you have saved earlier to see the Username and Password.\n\n
+        Delete Credentials: Delete your Credentials."
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+
+</LinearLayout>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?><LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+   
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="Give your credentials to save."
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+
+          <TextView
+              android:layout_width="fill_parent"
+              android:layout_height="wrap_content"
+              android:text="Website"
+              android:gravity="center"
+              android:paddingTop="15dp"
+              android:textColor="#372c24" />
+
+          <EditText
+              android:id="@+id/editText3"
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content"
+              android:layout_marginBottom="20dip"
+              android:layout_marginTop="5dip"
+              android:singleLine="true" />
+
+          <!--  Email Label -->
+
+          <TextView
+              android:layout_width="fill_parent"
+              android:layout_height="wrap_content"
+              android:text="Username or Email"
+              android:gravity="center"
+              android:textColor="#372c24" />
+
+          <EditText
+              android:id="@+id/editText1"
+              android:layout_width="fill_parent"
+              android:layout_height="wrap_content"
+              android:layout_marginBottom="20dip"
+              android:layout_marginTop="5dip"
+              android:singleLine="true" />
+          
+          <!-- Password Label -->
+          <TextView android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:textColor="#372c24"
+                android:gravity="center"
+                android:text="Password"/>
+          
+          <EditText
+              android:id="@+id/editText2"
+              android:layout_width="fill_parent"
+              android:layout_height="wrap_content"
+              android:layout_marginTop="5dip"
+              android:password="true"
+              android:singleLine="true" />
+
+          <!-- Register Button -->
+
+          <Button
+              android:id="@+id/b5"
+              android:layout_width="fill_parent"
+              android:layout_height="wrap_content"
+              android:layout_marginTop="10dip"
+              android:text="Save" />
+
+          <!-- Link to Login Screen -->
+ 
+        </LinearLayout>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.password.protect"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="8"
+        android:targetSdkVersion="19" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" 
+        android:manageSpaceActivity="com.password.protect.Alreadyuser">
+        
+           
+        <activity
+            android:name="com.password.protect.Passwordprotect"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="com.password.protect.PASSWORDPROTECT" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+         <activity
+            android:name=".Write"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="com.password.protect.WRITE" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+         <activity
+            android:name=".Read"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="com.password.protect.READ" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+
+         <activity
+            android:name=".Delete"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="com.password.protect.DELETE" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".Help"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="com.password.protect.HELP" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+           <activity
+            android:name=".Privacy"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="com.password.protect.PRIVACY" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+       
+      
+         <activity
+            android:name=".Alreadyuser"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+            
+     
+           </activity>
+           <activity
+            android:name=".Change"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="com.password.protect.CHANGE" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+    </application>
+
+
+</manifest>

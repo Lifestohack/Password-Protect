@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="If you are worried about your privacy, it is normal to be. But remember this app have not used any permission inorder to run. While installing you may have noticed it doesnot need any permissions, so you don't have to worry.\n\n
+        Q: What do you mean by it doesnot take any permission?\n
+        A: Android app needs certain Permission in order to run. For eg, Inorder to use the Internet, the app should ask for the permission to use the Wifi or Networks, So when you install you are giving permission to use those services. But this app didnot ask you for any permission to use. So it doesnot send your password through Internet or save on some servers. It is only saving those credentials on your phone which cannot be accessed otherwise."
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+
+</LinearLayout>
