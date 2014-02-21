@@ -24,3 +24,5 @@ How can you help?
 I need help to make it look nice, with nice layout and nice look. If anybody could help that would be great. You can send me the link if you have worked on the code at diwas.bhattarai@lifestohack.com
 
 If anyone need help with getting started with eclipse to build this project you can get help <a href="http://www.lifestohack.com/?s=eclipse">here</a>.
+
+Click <a href="http://www.lifestohack.com/never-forget-your-password-again-with-passwordprotecteven-more-secure-password/">here</a>. for more information on this app.
