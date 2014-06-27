@@ -18,7 +18,7 @@ Also this app doesnot require any permission to run. If you are a android develo
 
 Read License for more information.
 
-Download the .apk file <a href="http://lifestohack.com/divon/public.php?service=files&t=93e5acf5467041389fa74cf7e28e6f2e">here</a>.
+Download the .apk file <a href="http://www.lifestohack.com/downloads/Passwordprotect.apk">here</a>.
 
 How can you help?
 I need help to make it look nice, with nice layout and nice look. If anybody could help that would be great. You can send me the link if you have worked on the code at diwas.bhattarai@lifestohack.com
