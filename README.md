@@ -1,3 +1,6 @@
+******OUTDATED*********
+***Please donot use this app.*******
+
 Password-Protect
 ================
 ONE PASSWORD TO RULE THEM ALL.
